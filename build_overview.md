@@ -3,4 +3,4 @@
 | NimData    | Nim Library        | [![Build Status](https://github.com/bluenote10/NimData/workflows/ci/badge.svg)](https://github.com/bluenote10/NimData/actions?query=workflow%3Aci)     |
 | NimSvg     | Nim Library / Tool | [![Build Status](https://github.com/bluenote10/NimSvg/workflows/ci/badge.svg)](https://github.com/bluenote10/NimSvg/actions?query=workflow%3Aci)       |
 | oop_utils  | Nim Library        | [![Build Status](https://github.com/bluenote10/oop_utils/workflows/ci/badge.svg)](https://github.com/bluenote10/oop_utils/actions?query=workflow%3Aci) |
-| notemarks  | Website            | [![Build Status](https://github.com/notemarks/notemarks/workflows/ci/badge.svg)](https://github.com/notemarks/notemarks/actions?query=workflow%3Aci)   |
+| notemarks  | Website            | [![Build Status](https://github.com/notemarks/notemarks/workflows/CI/badge.svg)](https://github.com/notemarks/notemarks/actions?query=workflow%3Aci)   |
