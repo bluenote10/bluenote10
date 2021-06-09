@@ -1,6 +1,8 @@
-| Repository | Type               | Build Status                                                                                                                                           |
-|------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| NimData    | Nim Library        | [![Build Status](https://github.com/bluenote10/NimData/workflows/ci/badge.svg)](https://github.com/bluenote10/NimData/actions?query=workflow%3Aci)     |
-| NimSvg     | Nim Library / Tool | [![Build Status](https://github.com/bluenote10/NimSvg/workflows/ci/badge.svg)](https://github.com/bluenote10/NimSvg/actions?query=workflow%3Aci)       |
-| oop_utils  | Nim Library        | [![Build Status](https://github.com/bluenote10/oop_utils/workflows/ci/badge.svg)](https://github.com/bluenote10/oop_utils/actions?query=workflow%3Aci) |
-| notemarks  | Website            | [![Build Status](https://github.com/notemarks/notemarks/workflows/CI/badge.svg)](https://github.com/notemarks/notemarks/actions?query=workflow%3Aci)   |
+| Repository       | Type               | Build Status                                                                                                                                                         |
+|----------------- |--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| NimData          | Nim Library        | [![Build Status](https://github.com/bluenote10/NimData/workflows/ci/badge.svg)](https://github.com/bluenote10/NimData/actions?query=workflow%3Aci)                   |
+| NimSvg           | Nim Library / Tool | [![Build Status](https://github.com/bluenote10/NimSvg/workflows/ci/badge.svg)](https://github.com/bluenote10/NimSvg/actions?query=workflow%3Aci)                     |
+| nim-heap         | Nim Library        | [![Build Status](https://github.com/bluenote10/nim-heap/workflows/ci/badge.svg)](https://github.com/bluenote10/nim-heap/actions?query=workflow%3Aci)                 |
+| oop_utils        | Nim Library        | [![Build Status](https://github.com/bluenote10/oop_utils/workflows/ci/badge.svg)](https://github.com/bluenote10/oop_utils/actions?query=workflow%3Aci)               |
+| notemarks        | Website            | [![Build Status](https://github.com/notemarks/notemarks/workflows/CI/badge.svg)](https://github.com/notemarks/notemarks/actions?query=workflow%3Aci)                 |
+| rust-array-stump | Rust Library       | [![Build Status](https://github.com/bluenote10/rust-array-stump/workflows/ci/badge.svg)](https://github.com/bluenote10/rust-array-stump/actions?query=workflow%3Aci) |
